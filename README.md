@@ -71,26 +71,33 @@ Changed loop to 1<
 # Overall Reflection
 
 ## Which task was the easiest to fix? Why?
--
+- Task 1 was the easiest to fix 
+- it required the least changes and
+- was very simple to find a solution 
 
 ## Which task was the most difficult? Why?
--
+- Task 3 required the most complex solution
+- and required me to think harder about the
+- problem
 
 ## How did Git help you track your progress through the debugging process?
--
+- Helped me focus on only 1 issue at a time
+- knowing i have backups if need be
 
 ## Why is it important to make small, frequent commits when debugging code?
--
+- so you always have something to fall back on 
+- in case of emergency
 
 ## What did you learn about using JUnit tests to guide debugging?
--
+- really helps me think through the troubleshooting process 
 
 ---
 
 # Commit 5: Final Reflection
 
 ## What did you complete or update before making this final commit?
--
+- README
 
 ## Why is it useful to document your work after completing a programming task?
--
+- Helps you return to older projects and helps others
+- learn about your project before picking it up
