@@ -37,16 +37,18 @@ Paste your GitHub repository URL here.
 # Commit 3: Task 2 (sumEvenNumbers)
 
 ## Which tests in Task2Test were failing before your fix?
--
+- All 3 tests were failing 
 
 ## What was the issue in the code?
--
+- sum started at 1 instead of 0
+- the loop used i<= instead of i<
 
 ## What change did you make to fix it?
--
+-Changed sum from 1 to 0
+Changed loop to 1<
 
 ## How did the tests help guide your fix?
--
+-showed the expected sum for even numbers
 
 ---
 
