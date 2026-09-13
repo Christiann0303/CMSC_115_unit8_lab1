@@ -11,26 +11,26 @@ Paste your GitHub repository URL here.
 # Commit 1: Initial Commit
 
 ## What did you include in this commit?
--
+-All files in project.
 
 ## What was the purpose of this commit?
--
+-To have the original project before any changes were made
 
 ---
 
 # Commit 2: Task 1 (getGrade)
 
 ## Which tests in Task1Test were failing before your fix?
--
+- Get grade was failing 
 
 ## What was the issue in the code?
--
+- Was giving incorrect output
 
 ## What change did you make to fix it?
--
+- Swapped print statements and added = to if statements
 
 ## How did the tests help guide your fix?
--
+- Outputs were flip flopped
 
 ---
 
