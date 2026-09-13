@@ -4,7 +4,7 @@
 Christian
 
 ## GitHub Repository URL
-Paste your GitHub repository URL here.
+https://github.com/Christiann0303/CMSC_115_unit8_lab1
 
 ---
 
@@ -55,16 +55,16 @@ Changed loop to 1<
 # Commit 4: Task 3 (sumRange)
 
 ## Which tests in Task3Test were failing before your fix?
--
+-testSumRangesReverseOrder
 
 ## What was the issue in the code?
--
+- start was greater than end 
 
 ## What change did you make to fix it?
--
+- I added an if/else so the method can count both uo  and down 
 
 ## How did the tests help guide your fix?
--
+- The reverse order test showed that the methind needed to work going both ways
 
 ---
 
